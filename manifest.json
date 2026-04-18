@@ -1,0 +1,10 @@
+{
+  "name": "Hi",
+  "description": "Jake's First Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "helloIcon.png"
+  }
+}
